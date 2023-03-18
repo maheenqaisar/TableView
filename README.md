@@ -17,4 +17,4 @@
 Overall, a table view is a flexible and powerful UI element in iOS development that can be used to display a wide variety of data, from simple lists to complex data structures. With Swift's powerful features and UIKit framework, creating a table view is relatively straightforward and can be customized to suit the specific needs of your app.
 
 
-<img width="150" alt="Screenshot 2023-03-18 at 10 32 41 PM" src="https://user-images.githubusercontent.com/124521487/226123318-cb4409aa-801d-4d84-b0d3-347e4fedc8fb.png">
+<img width="250" alt="Screenshot 2023-03-18 at 10 32 41 PM" src="https://user-images.githubusercontent.com/124521487/226123318-cb4409aa-801d-4d84-b0d3-347e4fedc8fb.png">
